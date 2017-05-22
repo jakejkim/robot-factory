@@ -1,32 +1,33 @@
 
-#Robot-factory
 
-##Deployment address
+# Robot-factory
+
+## Deployment address
 - https://strawberry.jlparry.com/
 
 
-###Team name 
+### Team name 
 - Team-Strawberry
 
-###Project name
+### Project name
 - Robot-factory   
 
 
-###Group Members        
+### Group Members        
 
-- Jake Kim (C)
+- Jake Kim (Captain)
 - Karan Parmar
 - Michael Park
 - Nick Nelson
 - William Brown       
 
 
-###Coding Conventions
+### Coding Conventions
 - Coding Style - Allman
 
 
 
-###Project Folders
+### Project Folders
 ```
 - /application    
 - /assets
@@ -35,12 +36,12 @@
 
 
 
-###Distribution of work       
+### Distribution of work       
 
 | Name | Work |
 |---|---|
-| Jake | Overview / Part page |
-| Karan | History page |
-| Michael | About / History page |
-| Nick | Assembly page |
-| William | Home page / Navbar |
+| Jake | Overview / Home page / Part page / Assembly page / History Page / About |
+
+### Screenshots 
+<img src="./public/assets/images/robotfactory1.png" width="400">
+<img src="./public/assets/images/robotfactory2.png" width="400">
